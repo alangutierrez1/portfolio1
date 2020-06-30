@@ -16,6 +16,11 @@ nav{
 nav .nav-item{
     width: 200px;
 }
+nav .active{
+ text-decoration: underline;
+ font-weight: 600;
+ 
+}
 .form-control {
     background-color: #eeeeee;
     border: 0;
