@@ -19,7 +19,7 @@ nav .nav-item{
 nav .active{
  text-decoration: underline;
  font-weight: 600;
- 
+
 }
 .form-control {
     background-color: #eeeeee;
@@ -63,4 +63,10 @@ footer i{
     padding: 8px;
     border-radius: 80px;
     margin: 0 15px;
+}
+x{
+    color: red;
+    font-style: oblique;
+    font-weight: 900;
+
 }
