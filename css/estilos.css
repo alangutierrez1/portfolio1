@@ -64,9 +64,12 @@ footer i{
     border-radius: 80px;
     margin: 0 15px;
 }
-x{
+#span{
     color: red;
     font-style: oblique;
     font-weight: 900;
-
+}
+#experiencia{
+    background-color:#212529;
+    color: white;
 }
