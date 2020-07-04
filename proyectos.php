@@ -27,16 +27,16 @@
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item ">
-                        <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="sobre-mi.html">Sobre Mi</a>
+                        <a class="nav-link" href="sobre-mi.php">Sobre Mi</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="proyectos.html">Proyectos</a>
+                        <a class="nav-link active" href="proyectos.php">Proyectos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contacto.html">Contacto</a>
+                        <a class="nav-link" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
 
@@ -58,7 +58,7 @@
             <div class="row my-sm-4 my-3">
                 <div class="col-sm-6 col-12 px-2 mb-3">
                     <div class="bg-white">
-                        <img src="images/Marcelo-Gallardo.jpg" alt="gallardo" class="img-fluid">
+                        <img src="" alt="foto1" class="img-fluid">
                         <div class="row p-3">
                             <div class="col-12">
                                 <h3>ABC</h3>
@@ -81,7 +81,7 @@
                 </div>
                 <div class="col-sm-6 col-12 px-2">
                     <div class="bg-white">
-                        <img src="images/enzope.jpg" alt="enzoperez" class="img-fluid">
+                        <img src="" alt="foto2" class="img-fluid">
                         <div class="row p-3">
                             <div class="col-12">
                                 <h3>BCD</h3>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="col-sm-6 col-12 px-2">
                     <div class="bg-white">
-                        <img src="images/leoponzio.jpg" alt="leoponzio" class="img-fluid">
+                        <img src="" alt="foto3" class="img-fluid">
                         <div class="row p-3">
                             <div class="col-12">
                                 <h3>EFG</h3>
@@ -129,7 +129,7 @@
                 </div>
                 <div class="col-sm-6 col-12 px-2 mt-4 mt-sm-0">
                     <div class="bg-white">
-                        <img src="images/osoprato.jpg" alt="osopratto" class="img-fluid">
+                        <img src="" alt="foto4" class="img-fluid">
                         <div class="row p-3">
                             <div class="col-12">
                                 <h3>HIJ</h3>
@@ -160,7 +160,7 @@
         <div class="container" id="">
             <div class="row py-5">
                 <div class="col-sm-4 col-12 text-sm-left text-center">
-                    <a href="index.html">©Todos los derechos reservados<br>2020</a>
+                    <a href="index.html">©Alan Antu Gutierrez<br>2020</a>
                 </div>
                 <div class="col-sm-4 col-12 text-center py-4 py-sm-0">
                     <a href="https://api.whatsapp.com/send?phone=541159773312&text=Hola" target="_blank"><i

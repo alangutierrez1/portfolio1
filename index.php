@@ -17,37 +17,50 @@
 </head>
 
 <body>
-  <header>
-    <nav class="navbar navbar-expand-md navbar-dark">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<header>
+        <nav class="navbar navbar-expand-md navbar-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item ">
-                    <a class="nav-link active" href="index.html">Inicio <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="sobre-mi.html">Sobre Mi</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="proyectos.html">Proyectos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contacto.html">Contacto</a>
-                </li>
-            </ul>
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item ">
+                        <a class="nav-link actvie" href="index.php">Inicio <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sobre-mi.php">Sobre Mi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="proyectos.php">Proyectos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacto.php">Contacto</a>
+                    </li>
+                </ul>
 
-        </div>
-    </nav>
-</header>
+            </div>
+        </nav>
+    </header>
+<div class="container">
+<section>
+	<div class="row py-5">
+		<div class="col-10">
+            <h1>Hola!<br> Bienvenido a mi web
+            </h1>
+            <h2>Alan Antu Gutierrez</h2>
+            <a href="proyectos.php" class="btn mt-sm-4">Conoce mis proyectos</a>
+		</div>
+	</div>
+</section>
+</div>
+
 <footer>
   <div class="container" id="">
       <div class="row py-5">
           <div class="col-sm-4 col-12 text-sm-left text-center">
-              <a href="index.html">©Todos los derechos reservados<br>2020</a>
+              <a href="index.html">©Alan Antu Gutierrez<br>2020</a>
           </div>
           <div class="col-sm-4 col-12 text-center py-4 py-sm-0">
               <a href="https://api.whatsapp.com/send?phone=541159773312&text=Hola" target="_blank"><i class="fab fa-whatsapp"></i></a>

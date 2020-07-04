@@ -27,16 +27,16 @@
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item ">
-                        <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="sobre-mi.html">Sobre Mi</a>
+                        <a class="nav-link active" href="sobre-mi.php">Sobre Mi</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="proyectos.html">Proyectos</a>
+                        <a class="nav-link" href="proyectos.php">Proyectos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="contacto.html">Contacto</a>
+                        <a class="nav-link " href="contacto.php">Contacto</a>
                     </li>
                 </ul>
 
@@ -55,7 +55,7 @@
             </div>
             <div class="col-sm-3 col-9 mx-9 my-5">
                 <img src="images/alan.jpg" alt="Alan Antu Gutierrez" title="Alan Antu Gutierrez"
-                    class="img-fluid rounded-circle">
+                    class="img-fluid img-circle">
             </div>
 
         </div>
@@ -203,7 +203,7 @@
         <div class="container" id="">
             <div class="row py-5">
                 <div class="col-sm-4 col-12 text-sm-left text-center">
-                    <a href="index.html">©Todos los derechos reservados<br>2020</a>
+                    <a href="index.html">©Alan Antu Gutierrez<br>2020</a>
                 </div>
                 <div class="col-sm-4 col-12 text-center py-4 py-sm-0">
                     <a href="https://api.whatsapp.com/send?phone=541159773312&text=Hola" target="_blank"><i
